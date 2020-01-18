@@ -1,2 +1,2 @@
-Pillow==4.3.0
+Pillow==6.2.0
 qrcode==5.3
